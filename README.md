@@ -1,5 +1,3 @@
-# CRATER-DETECTION-AND-SIZE-ESTIMATION
-COMPUTER VISION PROJECT
 Lunar Crater Detection and Diameter Estimation
 Overview
 This project implements an automated system for detecting lunar craters and estimating their diameters using high-resolution images from the Orbiter High-Resolution Camera (OHRC) onboard the Chandrayaan-2 spacecraft. The approach leverages the YOLOv9 deep learning model for crater detection, followed by post-processing techniques to estimate crater diameters. The system significantly improves the speed and reliability of lunar geological analysis compared to traditional manual methods, offering a scalable solution for large-scale crater mapping.
